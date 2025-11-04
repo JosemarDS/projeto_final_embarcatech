@@ -32,10 +32,4 @@ Confira o vídeo explicativo no YouTube:
 ## 🎯 Objetivo
 
 Este projeto foi desenvolvido como parte do desafio final da formação **EmbarcaTech**, com foco em sistemas embarcados e aplicações práticas com microcontroladores.
-
-## 🧑‍💻 Autor
-
-Desenvolvido por [JosemarDS](https://github.com/JosemarDS)
-
----
-
+>torna o readme bilíngue: português e inglês sem alteração
